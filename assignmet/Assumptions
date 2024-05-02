@@ -1,0 +1,5 @@
+1. Withdrawals can't be negative or zero.
+2. ATM operations are thread-safe.
+3. ATM starts with a fixed number of denominations.
+4. Denominations are represented as integers (e.g., $10, $20, $50, $100).
+5. ATM supports withdrawals only if it has sufficient notes of all denominations.
